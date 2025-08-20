@@ -23,6 +23,7 @@ I craft <b>pixel-perfect UIs</b> with <b>Next.js, Tailwind CSS, Shadcn</b>, and 
 &nbsp;&nbsp;• <b>Database</b>: MongoDB  
 &nbsp;&nbsp;• <b>Languages</b>: Java, Solidity  
 🔗 <b>Web3 Curious</b>: Solidity learner & <b>Ex-SheFi13 Tutor</b>
+<br>
 🚀 <b>Projects</b>:  
 &nbsp;&nbsp;• <a href="https://learn-chain.vercel.app/" target="_blank">Learn Chain</a> (Next.js + Web3)  
 &nbsp;&nbsp;• <a href="https://portfolio-shruti-agrahari.vercel.app/" target="_blank">Portfolio - Shruti Agrahari</a>  
