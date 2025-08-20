@@ -17,10 +17,16 @@ I craft <b>pixel-perfect UIs</b> with <b>Next.js, Tailwind CSS, Shadcn</b>, and 
 <br>
 
 ⚡ <b>Currently exploring</b> Web3 — Solidity, smart contracts & decentralized apps.  
-🛠️ <b>Tech Stack</b>: MERN, Next.js, Express, Tailwind, Motion, GSAP  
-🔗 <b>Web3 Curious</b>: Solidity learner & <b>SheFi13 Scholarship</b> recipient  
-🚀 <b>Projects</b>: AirVista (MERN), Learn Chain (Next.js + Web3), GDrive 3.0 (Decentralized Cloud)  
-📍 <b>Location</b>: Jabalpur, Madhya Pradesh  
+🛠️ 🛠️ <b>Tech Stack</b>:  
+&nbsp;&nbsp;• <b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Shadcn UI, Bootstrap, Vite, GSAP, Framer Motion  
+&nbsp;&nbsp;• <b>Backend</b>: Node.js, Express.js  
+&nbsp;&nbsp;• <b>Database</b>: MongoDB  
+&nbsp;&nbsp;• <b>Languages</b>: Java, Solidity  
+🔗 <b>Web3 Curious</b>: Solidity learner & <b>Ex-SheFi13 Tutor</b>
+🚀 <b>Projects</b>:  
+&nbsp;&nbsp;• <a href="https://learn-chain.vercel.app/" target="_blank">Learn Chain</a> (Next.js + Web3)  
+&nbsp;&nbsp;• <a href="https://portfolio-shruti-agrahari.vercel.app/" target="_blank">Portfolio - Shruti Agrahari</a>  
+📍 <b>Location</b>: Bangalore, India  
 🧠 <b>Currently</b>: Perfecting interfaces with aceternityUI & pushing Next.js aesthetics to new limits  
 
 <br>
